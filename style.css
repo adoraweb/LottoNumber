@@ -1,0 +1,14 @@
+body{
+    background: #BCE7FD;
+}
+
+
+h2,h3{
+    text-align: center;
+    text-transform: capitalize;
+}
+.container{
+    background: #CBE896;
+    height: 500px;
+    
+}
